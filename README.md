@@ -8,7 +8,7 @@ Say hi or bye to bros.
 
 ```bash
 $ curl https://brolong.xyz/api/
-{"message":"Greetings broast beef."}
+{"message":"Greetings, broast beef."}
 ```
 
 ## Contributing

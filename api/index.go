@@ -9,8 +9,10 @@ import (
 )
 
 var bros = []string{
-	"broast beef.",
-	"Broe Biden.",
+	"broast beef",
+	"Broe Biden",
+	"Bro Montana",
+	"Brosiah",
 }
 
 var greetings = []string{
